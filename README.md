@@ -51,18 +51,18 @@
 
 ### IEEE 14
 
-![IEEE 14 系统拓扑](images/ieee14_topology.png)
+![IEEE 14 系统拓扑](ieee14_topology.png)
 
 来源：[Texas A&M Electric Grid Test Case Repository](https://electricgrids.engr.tamu.edu/electric-grid-test-cases/ieee-14-bus-system/)。
 
 ### IEEE 39
 
-![IEEE 39 系统拓扑](images/ieee39_topology.png)
+![IEEE 39 系统拓扑](ieee39_topology.png)
 
 来源：[Texas A&M Electric Grid Test Case Repository](https://electricgrids.engr.tamu.edu/electric-grid-test-cases/new-england-ieee-39-bus-system/)。
 
 ### WECC 179
 
-![WECC 179 系统拓扑](images/wecc179_topology.jpg)
+![WECC 179 系统拓扑](wecc179_topology.jpg)
 
 来源：[University of Tennessee / Kai Sun — Test Cases Library](https://web.eecs.utk.edu/~kaisun/Oscillation/basecase.html)。图片权利归原来源。
